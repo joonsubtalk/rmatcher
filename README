@@ -1,3 +1,7 @@
+// Notes
+
+4/12/13 11:34pm  Joon - test run pulled git
+
 
 To check what ports are being listen on
 netstat -ntl
